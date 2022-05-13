@@ -1,0 +1,17 @@
+D:\study\source\repos\Calculators\Calculators\bin\Debug\net6.0-windows\Calculators.exe
+D:\study\source\repos\Calculators\Calculators\bin\Debug\net6.0-windows\Calculators.deps.json
+D:\study\source\repos\Calculators\Calculators\bin\Debug\net6.0-windows\Calculators.runtimeconfig.json
+D:\study\source\repos\Calculators\Calculators\bin\Debug\net6.0-windows\Calculators.dll
+D:\study\source\repos\Calculators\Calculators\bin\Debug\net6.0-windows\Calculators.pdb
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.csproj.AssemblyReference.cache
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.Form1.resources
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.csproj.GenerateResource.cache
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.AssemblyInfoInputs.cache
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.AssemblyInfo.cs
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.csproj.CoreCompileInputs.cache
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.dll
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\refint\Calculators.dll
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.pdb
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\Calculators.genruntimeconfig.cache
+D:\study\source\repos\Calculators\Calculators\obj\Debug\net6.0-windows\ref\Calculators.dll
